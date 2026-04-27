@@ -4,7 +4,7 @@ title: Última ruta
 subtitle: Sortides, paisatges i quilòmetres compartits
 ---
 
-Benvinguts a la meva secció de rutes en bicicleta. Aquí compartiré la darrera sortida que faig, així podeu estar al dia. Són rutes majoritàriament per Catalunya, especialment per carreteres tranquil·les, pobles petits i paisatges que valen la pena pedalar.
+En aquesta secció compartiré la meva darrera sortida en bicicleta, així podreu estar al dia d'on paro. Són rutes majoritàriament per Catalunya, especialment per carreteres tranquil·les, pobles petits i paisatges que valen la pena pedalar.
 
 ## Amb la patuleia
 
