@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Rutes en bicicleta per Catalunya
+title: Última ruta per Catalunya
 subtitle: Sortides, paisatges i quilòmetres compartits
 ---
 
