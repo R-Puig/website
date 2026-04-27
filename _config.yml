@@ -38,28 +38,7 @@ social-network-links:
   email: "roger.puigi@estudiants.urv.cat"
   github: R-Puig
   instagram: roger_puig_
-  
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
-#  bluesky: yourname
-#  ORCID: your ORCID ID
-#  google-scholar: your google scholar
-#  discord: "invite_code" or "users/userid" or "invite/invite_code"
-#  kaggle: yourname
-#  hackerrank: yourname
-#  gitlab: yourname
-#  itchio: yourname
-#  untappd: yourname
+  telephone: +34617101719
 
 ###########################
 # --- General options --- #
@@ -74,7 +53,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "ferranad.github.io"
+url-pretty: "r-puig.github.io/roger-puig/"
 
 # Add the website title to the title of every page
 title-on-all-pages: true
