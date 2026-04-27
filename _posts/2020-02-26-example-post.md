@@ -17,19 +17,21 @@ Aquestes són algunes de les meves darreres rutes en bicicleta, combinant BTT i 
 - 📏 42,14 km  
 - ⛰️ 1.094 m desnivell  
 - ⏱️ 2:50:55  
-- ⚡ 14,8 km/h  
+- ⚡ 14,8 km/h
+- 🔗 https://www.strava.com/activities/18076783561
 
 Ruta tècnica de BTT amb molts corriols i trams exigents.
 
 ---
 
-### 🚴 Cap de Creus amb en Julito
+### 🚴 Cap de Creus amb en Julio
 - 📍 Vilajuïga, Catalunya  
 - 📅 21/04/2026  
 - 📏 78,03 km  
 - ⛰️ 1.234 m desnivell  
 - ⏱️ 3:28:36  
-- ⚡ 22,4 km/h  
+- ⚡ 22,4 km/h
+- 🔗 https://www.strava.com/activities/18197955697
 
 Sortida espectacular per una de les zones més boniques de la Costa Brava.
 
@@ -41,7 +43,8 @@ Sortida espectacular per una de les zones més boniques de la Costa Brava.
 - 📏 88,91 km  
 - ⛰️ 1.631 m desnivell  
 - ⏱️ 3:54:36  
-- ⚡ 22,7 km/h  
+- ⚡ 22,7 km/h
+- 🔗 https://www.strava.com/activities/17802150093
 
 Ruta mítica de Mallorca amb ports de muntanya i paisatges increïbles.
 
@@ -53,7 +56,8 @@ Ruta mítica de Mallorca amb ports de muntanya i paisatges increïbles.
 - 📏 20,95 km  
 - ⛰️ 255 m desnivell  
 - ⏱️ 1:09:55  
-- ⚡ 18,0 km/h  
+- ⚡ 18,0 km/h
+- 🔗 https://www.strava.com/activities/18062545629
 
 Sortida curta i tranquil·la per desconnectar.
 
@@ -65,6 +69,7 @@ Sortida curta i tranquil·la per desconnectar.
 - 📏 91,44 km  
 - ⛰️ 1.614 m desnivell  
 - ⏱️ 3:45:50  
-- ⚡ 24,3 km/h  
+- ⚡ 24,3 km/h
+- 🔗 https://www.strava.com/activities/18155302850
 
 Ruta llarga i exigent amb trams espectaculars de costa.
