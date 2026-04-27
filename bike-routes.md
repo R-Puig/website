@@ -8,8 +8,9 @@ Benvinguts a la meva secció de rutes en bicicleta. Aquí aniré compartint algu
 
 ## Amb la patuleia
 
-- **Data:** 26/04/2026
-- **Zona:** La Pera, Catalunya
+- **Dia:** 26/04/2026
+- **Lloc de Sortida:** La Pera, Catalunya
+- **Zona de la ruta:** Baix Empordà
 - **Distància:** 56,04 km
 - **Desnivell positiu:** 397 m
 - **Temps en moviment:** 2:34:50
