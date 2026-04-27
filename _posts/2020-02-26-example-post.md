@@ -1,95 +1,70 @@
 ---
 layout: post
-title: Sample blog post to learn markdown tips
-subtitle: There's lots to learn!
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+title: Recull de rutes en bicicleta
+subtitle: Cinc sortides destacades entre Empordà, Costa Brava i Mallorca
+tags: [cycling, strava, bike]
 comments: true
-mathjax: true
-author: Bill Smith
+author: Roger Puig
 ---
 
-{: .box-success}
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/tables/etc.<br/>I also encourage you to look at the [code that created this post](https://raw.githubusercontent.com/daattali/beautiful-jekyll/master/_posts/2020-02-28-sample-markdown.md) to learn some more advanced tips about using markdown in Beautiful Jekyll.
+Aquestes són algunes de les meves darreres rutes en bicicleta, combinant BTT i carretera en diferents entorns.
 
-**Here is some bold text**
+---
 
-## Here is a secondary heading
+### 🚵 BTT Corriols de Sant Jordi Desvalls 2026
+- 📍 Sant Jordi Desvalls, Catalunya  
+- 📅 12/04/2026  
+- 📏 42,14 km  
+- ⛰️ 1.094 m desnivell  
+- ⏱️ 2:50:55  
+- ⚡ 14,8 km/h  
 
-[This is a link to a different site](https://deanattali.com/) and [this is a link to a section inside this page](#local-urls).
+Ruta tècnica de BTT amb molts corriols i trams exigents.
 
-Here's a table:
+---
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+### 🚴 Cap de Creus amb en Julito
+- 📍 Vilajuïga, Catalunya  
+- 📅 21/04/2026  
+- 📏 78,03 km  
+- ⛰️ 1.234 m desnivell  
+- ⏱️ 3:28:36  
+- ⚡ 22,4 km/h  
 
-You can use [MathJax](https://www.mathjax.org/) to write LaTeX expressions. For example:
-When \\(a \ne 0\\), there are two solutions to \\(ax^2 + bx + c = 0\\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+Sortida espectacular per una de les zones més boniques de la Costa Brava.
 
-How about a yummy crepe?
+---
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg)
+### 🚴 Palma – Sóller – Lluc – Port de Pollença
+- 📍 Palma, Illes Balears  
+- 📅 21/03/2026  
+- 📏 88,91 km  
+- ⛰️ 1.631 m desnivell  
+- ⏱️ 3:54:36  
+- ⚡ 22,7 km/h  
 
-It can also be centered!
+Ruta mítica de Mallorca amb ports de muntanya i paisatges increïbles.
 
-![Crepe](https://beautifuljekyll.com/assets/img/crepe.jpg){: .mx-auto.d-block :}
+---
 
-Here's a code chunk:
+### 🚴 Sortideta amb en Santi
+- 📍 La Pera, Catalunya  
+- 📅 11/04/2026  
+- 📏 20,95 km  
+- ⛰️ 255 m desnivell  
+- ⏱️ 1:09:55  
+- ⚡ 18,0 km/h  
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
+Sortida curta i tranquil·la per desconnectar.
 
-And here is the same code with syntax highlighting:
+---
 
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
+### 🚴 Gran Fondo Lloret
+- 📍 Lloret de Mar, Catalunya  
+- 📅 18/04/2026  
+- 📏 91,44 km  
+- ⛰️ 1.614 m desnivell  
+- ⏱️ 3:45:50  
+- ⚡ 24,3 km/h  
 
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
-
-## Local URLs in project sites {#local-urls}
-
-When hosting a *project site* on GitHub Pages (for example, `https://USERNAME.github.io/MyProject`), URLs that begin with `/` and refer to local files may not work correctly due to how the root URL (`/`) is interpreted by GitHub Pages. You can read more about it [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). To demonstrate the issue, the following local image will be broken **if your site is a project site:**
-
-![Crepe](/assets/img/crepe.jpg)
-
-If the above image is broken, then you'll need to follow the instructions [in the FAQ](https://beautifuljekyll.com/faq/#links-in-project-page). Here is proof that it can be fixed:
-
-![Crepe]({{ '/assets/img/crepe.jpg' | relative_url }})
+Ruta llarga i exigent amb trams espectaculars de costa.
