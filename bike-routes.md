@@ -19,4 +19,4 @@ Ruta suau per l'Empordà, ideal per gaudir del paisatge i pedalar en grup. Una s
 
 [Veure l’activitat a Strava](https://strava.app.link/DNIccF2SF2b)
 
-![Grup pedalant per l'Empordà](/images/amb-la-patuleia.jpg)
+![Grup pedalant per l'Empordà](/images/amb-la-patuleia2.jpg)
